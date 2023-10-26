@@ -40,7 +40,9 @@ The original ASTEC model AA 19100 power supply has the following characteristics
 | -12V              | 0.3A          | Yellow       |
 
 <br>
+
 ## Thanks
+
 Thankyou to all the people who have helped with this project.
 
 - [Wiretrap-retro](https://github.com/wiretap-retro) who created the [PICO-AT](https://github.com/wiretap-retro/PICO-AT-Power-Adapter) that I used as the base design project
